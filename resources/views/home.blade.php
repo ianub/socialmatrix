@@ -26,6 +26,13 @@
 		<img src="images/homeservices.jpg" id="home-services">
 		<h1>OUR SERVICES</h1>
 	</div>
+	<div class="home5">
+		<div id="tepapa-map"></div>
+		<p><small>CONTACT@SOCIALMATRIX.NZ</small><p>
+		<p><small>2/130 ORIENTAL PARADE, ORIENTAL BAY, WELLINGTON, NEW ZEALAND 6011<br>
+		<small>+64 4 801 9022</small></p>
+	</div>
+
 
   
 

@@ -29,7 +29,9 @@
 		<div class="footer-box">
 			<div>
 				<p>GET IN TOUCH</p>
-				<P></P>
+				<p><small>CONTACT@SOCIALMATRIX.NZ</small><p>
+				<p><small>2/130 ORIENTAL PARADE, ORIENTAL BAY, <br>WELLINGTON, NEW ZEALAND 6011<br>
+				<small>+64 4 801 9022</small></p>
 			</div>
 			<div>
 				<a href=""><img src="images/facebook.png"></a>
@@ -38,10 +40,16 @@
 				<a href=""><img src="images/youtube.png"></a>
 			</div>
 			<div>
-				<p>&copy; 2017 SOCIAL MATRIX ALL RIGHTS RESERVED</p>
+				<p><small>&copy; 2017 SOCIAL MATRIX ALL RIGHTS RESERVED</small></p>
 			</div>
 		</div>
 	</footer>
 
+	<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAPk2cb6nhsAbWyEOi7hnHBjxDmDZflFs&callback=initMap">
+    </script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/script.js"  type="text/javascript"></script>
+    <script src="tepapa-map.js" type="text/javascript"></script>
 </body>
 </html>
